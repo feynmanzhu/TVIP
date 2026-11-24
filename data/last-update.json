@@ -1,0 +1,70 @@
+{
+  "updated_at": "2026-11-24T08:29:14Z",
+  "stats": {
+    "added": 4,
+    "updated": 0,
+    "removed": 0,
+    "kept": 415
+  },
+  "feeds": [
+    {
+      "project": "guovin",
+      "feed": "guovin-result",
+      "ok": true,
+      "channels": 75,
+      "error": null
+    },
+    {
+      "project": "yuechan",
+      "feed": "yuechan-iptv",
+      "ok": true,
+      "channels": 0,
+      "error": null
+    },
+    {
+      "project": "yuechan",
+      "feed": "yuechan-gntv",
+      "ok": true,
+      "channels": 6,
+      "error": null
+    },
+    {
+      "project": "iptv-org",
+      "feed": "iptv-org-cn",
+      "ok": true,
+      "channels": 35,
+      "error": null
+    },
+    {
+      "project": "iptv-org",
+      "feed": "iptv-org-news",
+      "ok": true,
+      "channels": 9,
+      "error": null
+    },
+    {
+      "project": "iptv-org",
+      "feed": "iptv-org-general",
+      "ok": true,
+      "channels": 6,
+      "error": null
+    },
+    {
+      "project": "iptv-org",
+      "feed": "iptv-org-sports",
+      "ok": true,
+      "channels": 5,
+      "error": null
+    },
+    {
+      "project": "free-tv",
+      "feed": "free-tv-playlist",
+      "ok": true,
+      "channels": 23,
+      "error": null
+    }
+  ],
+  "channel_count": 117,
+  "stream_count": 419,
+  "commit_message": "chore: 差量更新频道地址 (added 4, updated 0, removed 0)"
+}

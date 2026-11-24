@@ -1,0 +1,4714 @@
+{
+  "updated_at": "2026-11-24T08:29:14Z",
+  "channel_count": 117,
+  "stream_count": 419,
+  "channels": [
+    {
+      "key": "cctv1",
+      "name": "CCTV-1",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-1.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-1"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-1"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/cctv1.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-1"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-1 综合"
+        },
+        {
+          "url": "http://198.204.228.26/live/cctv1hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-1"
+        }
+      ]
+    },
+    {
+      "key": "cctv2",
+      "name": "CCTV-2",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-2.png",
+      "streams": [
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/cctv2.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-2"
+        },
+        {
+          "url": "http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-2"
+        },
+        {
+          "url": "http://198.204.228.26/live/cctv2hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-2"
+        },
+        {
+          "url": "http://192.151.150.154/live/cctv2hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-2"
+        },
+        {
+          "url": "http://107.150.60.122/live/cctv2hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-2"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-2 财经"
+        }
+      ]
+    },
+    {
+      "key": "cctv3",
+      "name": "CCTV-3",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-3.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-3"
+        },
+        {
+          "url": "http://107.150.60.122/live/cctv3hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-3"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-3 综艺"
+        },
+        {
+          "url": "http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-3"
+        },
+        {
+          "url": "http://69.30.245.50/live/cctv3.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-3"
+        }
+      ]
+    },
+    {
+      "key": "cctv4",
+      "name": "CCTV-4",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-4.png",
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4"
+        },
+        {
+          "url": "http://107.150.60.122/live/cctv4hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4"
+        },
+        {
+          "url": "http://207.56.13.146:81/cdnlive/cctv4.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4"
+        },
+        {
+          "url": "http://173.208.212.130:8181/1080p/cctv4.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4"
+        }
+      ]
+    },
+    {
+      "key": "cctv4asia",
+      "name": "CCTV-4 亚洲",
+      "category": "央视",
+      "logo": "https://i.imgur.com/tWt4Wou.png",
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+          "quality": "720P",
+          "quality_rank": 200,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4 Asia (720p)"
+        }
+      ]
+    },
+    {
+      "key": "cctv4europe",
+      "name": "CCTV-4 欧洲",
+      "category": "央视",
+      "logo": "https://i.imgur.com/HGLFdfk.png",
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+          "quality": "标清",
+          "quality_rank": 100,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4 Europe"
+        }
+      ]
+    },
+    {
+      "key": "cctv4america",
+      "name": "CCTV-4 美洲",
+      "category": "央视",
+      "logo": "https://i.imgur.com/gBbLyqh.png",
+      "streams": [
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8",
+          "quality": "标清",
+          "quality_rank": 100,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4 America"
+        }
+      ]
+    },
+    {
+      "key": "cctv5",
+      "name": "CCTV-5",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-5.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/cctv5hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        },
+        {
+          "url": "http://207.56.13.146:81/cdnlive/cctv5.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        },
+        {
+          "url": "http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        },
+        {
+          "url": "http://173.208.212.130:8181/720p/cctv5.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        },
+        {
+          "url": "http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        },
+        {
+          "url": "https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        },
+        {
+          "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        },
+        {
+          "url": "https://migu.188766.xyz/?migutoken=3803480da7c3ee6e07115f4bb5827c0d&id=CCTV5&type=yy",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5"
+        }
+      ]
+    },
+    {
+      "key": "cctv5plus",
+      "name": "CCTV-5+",
+      "category": "央视",
+      "logo": "https://i.imgur.com/OK8mdJV.png",
+      "streams": [
+        {
+          "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+ (1080p)"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+"
+        },
+        {
+          "url": "http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000246.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+"
+        },
+        {
+          "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+"
+        },
+        {
+          "url": "https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+"
+        },
+        {
+          "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+"
+        },
+        {
+          "url": "https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+"
+        },
+        {
+          "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+"
+        },
+        {
+          "url": "http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-5+"
+        }
+      ]
+    },
+    {
+      "key": "cctv6",
+      "name": "CCTV-6",
+      "category": "央视",
+      "logo": "https://i.imgur.com/SsPN5I3.png",
+      "streams": [
+        {
+          "url": "http://69.30.245.50/live/cctv6.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-6 电影"
+        },
+        {
+          "url": "http://198.204.240.250:82/live/cctv6.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-6"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv6hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-6"
+        },
+        {
+          "url": "http://198.204.228.26/live/cctv6hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-6"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-6"
+        }
+      ]
+    },
+    {
+      "key": "cctv7",
+      "name": "CCTV-7",
+      "category": "央视",
+      "logo": "https://i.imgur.com/GhXlUpM.png",
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-7 国防军事"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-7"
+        },
+        {
+          "url": "http://207.56.13.146:81/cdnlive/cctv7.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-7"
+        },
+        {
+          "url": "http://69.30.245.50/live/cctv7.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-7"
+        },
+        {
+          "url": "http://107.150.60.122/live/cctv7hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-7"
+        }
+      ]
+    },
+    {
+      "key": "cctv8",
+      "name": "CCTV-8",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-8.png",
+      "streams": [
+        {
+          "url": "http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-8"
+        },
+        {
+          "url": "http://69.30.245.50/live/cctv8.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-8"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-8"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-8 电视剧"
+        },
+        {
+          "url": "http://207.56.13.146:81/cdnlive/cctv8.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-8"
+        }
+      ]
+    },
+    {
+      "key": "cctv9",
+      "name": "CCTV-9",
+      "category": "央视",
+      "logo": "https://i.imgur.com/3tivvMm.png",
+      "streams": [
+        {
+          "url": "https://xykt-fix.github.io/Y77.m3u8",
+          "quality": "标清",
+          "quality_rank": 100,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-9 (576i)"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-9"
+        },
+        {
+          "url": "http://107.150.60.122/live/cctv9hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-9"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv9hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-9 纪录"
+        },
+        {
+          "url": "http://192.151.150.154/live/cctv9hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-9"
+        },
+        {
+          "url": "http://198.204.228.26/live/cctv9hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-9"
+        }
+      ]
+    },
+    {
+      "key": "cctv10",
+      "name": "CCTV-10",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-10.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-10"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-10 科教"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/cctv10.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-10"
+        },
+        {
+          "url": "http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-10"
+        },
+        {
+          "url": "http://69.30.245.50/live/cctv10.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-10"
+        }
+      ]
+    },
+    {
+      "key": "cctv11",
+      "name": "CCTV-11",
+      "category": "央视",
+      "logo": "https://i.imgur.com/0MeegZK.png",
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-11 戏曲"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-11"
+        },
+        {
+          "url": "http://198.204.228.26/live/cctv11hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-11"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/cctv11.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-11"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-11"
+        }
+      ]
+    },
+    {
+      "key": "cctv12",
+      "name": "CCTV-12",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-12.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/cctv12hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-12"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-12"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-12 社会与法"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/cctv12.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-12"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-12"
+        }
+      ]
+    },
+    {
+      "key": "cctv13",
+      "name": "CCTV-13",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-13.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-13"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-13"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-13 新闻"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000067.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-13"
+        },
+        {
+          "url": "http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-13"
+        }
+      ]
+    },
+    {
+      "key": "cctv14",
+      "name": "CCTV-14",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-14.png",
+      "streams": [
+        {
+          "url": "http://198.204.228.26/live/cctv14hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-14"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/cctv14.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-14"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-14"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-14 少儿"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-14"
+        }
+      ]
+    },
+    {
+      "key": "cctv15",
+      "name": "CCTV-15",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-15.png",
+      "streams": [
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/cctv15.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15 音乐"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15"
+        },
+        {
+          "url": "http://198.204.228.26/live/cctv15hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15"
+        },
+        {
+          "url": "https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15"
+        },
+        {
+          "url": "https://smart.pendy.dpdns.org/Smart.php?id=cctv15",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15"
+        },
+        {
+          "url": "http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15"
+        },
+        {
+          "url": "http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-15"
+        }
+      ]
+    },
+    {
+      "key": "cctv16",
+      "name": "CCTV-16",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-16.png",
+      "streams": [
+        {
+          "url": "http://207.56.13.146:81/cdnlive/cctv16.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-16"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-16"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-16"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-16"
+        },
+        {
+          "url": "https://hls-gateway.vpstv.net/streams/709089.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-16"
+        }
+      ]
+    },
+    {
+      "key": "cctv17",
+      "name": "CCTV-17",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-17.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-17"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-17"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-17"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-17 农业农村"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-17"
+        }
+      ]
+    },
+    {
+      "key": "cctv1600pnot247",
+      "name": "CCTV+ 1 (600p) [Not 24/7]",
+      "category": "央视",
+      "logo": "https://i.imgur.com/U8d4Is6.png",
+      "streams": [
+        {
+          "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+          "quality": "标清",
+          "quality_rank": 100,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV+ 1 (600p) [Not 24/7]"
+        }
+      ]
+    },
+    {
+      "key": "cctv2600pnot247",
+      "name": "CCTV+ 2 (600p) [Not 24/7]",
+      "category": "央视",
+      "logo": "https://i.imgur.com/qSg862A.png",
+      "streams": [
+        {
+          "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+          "quality": "标清",
+          "quality_rank": 100,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV+ 2 (600p) [Not 24/7]"
+        }
+      ]
+    },
+    {
+      "key": "cctv1hd",
+      "name": "CCTV-1 hd",
+      "category": "央视",
+      "logo": "https://i.imgur.com/TpA3cUl.png",
+      "streams": [
+        {
+          "url": "http://69.30.245.50/live/cctv1.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-1 HD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctv13hd",
+      "name": "CCTV-13 hd",
+      "category": "央视",
+      "logo": "https://i.imgur.com/6MTar6J.png",
+      "streams": [
+        {
+          "url": "http://go.bkpcp.top/mg/cctv13",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-13 HD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctv14hd",
+      "name": "CCTV-14 hd",
+      "category": "央视",
+      "logo": "https://i.imgur.com/c5SXW7i.png",
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-14 HD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctv16hd",
+      "name": "CCTV-16 hd",
+      "category": "央视",
+      "logo": "https://i.imgur.com/ZzV6JQp.png",
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-16 HD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctv17hd",
+      "name": "CCTV-17 hd",
+      "category": "央视",
+      "logo": "https://i.imgur.com/jSQURxS.png",
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-17 HD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctv4（亚）",
+      "name": "CCTV-4 （亚）",
+      "category": "央视",
+      "logo": "https://i.imgur.com/ovUSVEQ.png",
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4 中文国际（亚）"
+        }
+      ]
+    },
+    {
+      "key": "cctv4（欧）",
+      "name": "CCTV-4 （欧）",
+      "category": "央视",
+      "logo": "https://i.imgur.com/kx8metk.png",
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4 中文国际（欧）"
+        }
+      ]
+    },
+    {
+      "key": "cctv4（美）ⓢ",
+      "name": "CCTV-4 （美）ⓢ",
+      "category": "央视",
+      "logo": "https://i.imgur.com/1TPiRqR.png",
+      "streams": [
+        {
+          "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4 中文国际（美） Ⓢ"
+        }
+      ]
+    },
+    {
+      "key": "cctv4khd",
+      "name": "CCTV-4K hd",
+      "category": "央视",
+      "logo": "https://i.imgur.com/fxusYlX.png",
+      "streams": [
+        {
+          "url": "http://198.204.240.250:82/live/cctv4k.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-4K HD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctv6[geoblocked]",
+      "name": "CCTV-6 [geoblocked]",
+      "category": "央视",
+      "logo": "https://i.imgur.com/rFiaef7.png",
+      "streams": [
+        {
+          "url": "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
+          "quality": "标清",
+          "quality_rank": 100,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-6 [Geo-blocked]"
+        }
+      ]
+    },
+    {
+      "key": "cctv6hd",
+      "name": "CCTV-6 hd",
+      "category": "央视",
+      "logo": "https://i.imgur.com/rFiaef7.png",
+      "streams": [
+        {
+          "url": "http://69.30.245.50/live/cctv6.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-6 HD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctv8khd",
+      "name": "CCTV-8K hd",
+      "category": "央视",
+      "logo": "https://i.imgur.com/fxVPMJF.png",
+      "streams": [
+        {
+          "url": "http://192.151.150.154/live/cctv8k.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-8K HD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvbilliards",
+      "name": "CCTV-Billiards",
+      "category": "央视",
+      "logo": "https://i.imgur.com/WK3keM9.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Billiards (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvcultureofqualitysd",
+      "name": "CCTV-Culture of Quality SD",
+      "category": "央视",
+      "logo": "https://i.imgur.com/Paig8gG.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Culture of Quality SD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvgolftennis",
+      "name": "CCTV-Golf & Tennis",
+      "category": "央视",
+      "logo": "https://i.imgur.com/iqJJTmH.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Golf & Tennis (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvhealth",
+      "name": "CCTV-Health",
+      "category": "央视",
+      "logo": "https://i.imgur.com/AzpRtCz.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Health (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvnostalgiatheater",
+      "name": "CCTV-Nostalgia Theater",
+      "category": "央视",
+      "logo": "https://i.imgur.com/TVs9PBc.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Nostalgia Theater (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvstormfootball",
+      "name": "CCTV-Storm Football",
+      "category": "央视",
+      "logo": "https://i.imgur.com/Fy6HkX0.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Storm Football (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvstormmusic",
+      "name": "CCTV-Storm Music",
+      "category": "央视",
+      "logo": "https://i.imgur.com/IiiRmrf.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Storm Music (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvstormtheater",
+      "name": "CCTV-Storm Theater",
+      "category": "央视",
+      "logo": "https://i.imgur.com/rEttkKm.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Storm Theater (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvthefirsttheater",
+      "name": "CCTV-The First Theater",
+      "category": "央视",
+      "logo": "https://i.imgur.com/eFxD3hq.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-The First Theater (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvweapontechnology",
+      "name": "CCTV-Weapon & Technology",
+      "category": "央视",
+      "logo": "https://i.imgur.com/QlF96eS.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Weapon & Technology (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvwomensfashionsd",
+      "name": "CCTV-Women's Fashion SD",
+      "category": "央视",
+      "logo": "https://i.imgur.com/FVbP0aP.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-Women's Fashion SD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cctvworldgeographysd",
+      "name": "CCTV-World Geography SD",
+      "category": "央视",
+      "logo": "https://i.imgur.com/V2ncOXi.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CCTV-World Geography SD (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cetv1",
+      "name": "CETV-1",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CETV-1.png",
+      "streams": [
+        {
+          "url": "http://198.204.228.26/live/cetv1hd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-1"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-1"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-1"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000135.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-1"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-1"
+        }
+      ]
+    },
+    {
+      "key": "cetv2",
+      "name": "CETV-2",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CETV-2.png",
+      "streams": [
+        {
+          "url": "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=b637d3083747642f29b310fc5ba99367&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260827062127&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=47.92.23.141&SecurityKey=20260827062127&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.8.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6d02a32cc3b54abfae11971b15d053b8&ddCalcu=86bdv30a52a0aad3521cbc137b95141aebaf&sv=10004&ct=android",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-2"
+        },
+        {
+          "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-2"
+        },
+        {
+          "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-2"
+        },
+        {
+          "url": "http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-2"
+        },
+        {
+          "url": "http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-2"
+        }
+      ]
+    },
+    {
+      "key": "cetv3",
+      "name": "CETV-3",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/CETV-3.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/cetv3.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-3"
+        },
+        {
+          "url": "http://198.204.228.26/live/cetv3.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-3"
+        },
+        {
+          "url": "http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-3"
+        },
+        {
+          "url": "http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-3"
+        },
+        {
+          "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-3"
+        }
+      ]
+    },
+    {
+      "key": "cetv4",
+      "name": "CETV-4",
+      "category": "央视",
+      "logo": "https://live.fanmingming.cn/tv/CETV4.png",
+      "streams": [
+        {
+          "url": "http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-4"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-4"
+        },
+        {
+          "url": "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=b637d3083747642f29b310fc5ba99367&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260827062127&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=47.92.23.141&SecurityKey=20260827062127&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.8.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=960f499360818845510385e0e5605573&ddCalcu=3976v50a5fb04a6959e306e0588138081455&sv=10004&ct=android",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-4"
+        },
+        {
+          "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-4"
+        },
+        {
+          "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CETV-4"
+        }
+      ]
+    },
+    {
+      "key": "cgtn",
+      "name": "CGTN",
+      "category": "央视",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
+      "streams": [
+        {
+          "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN (1080p)"
+        },
+        {
+          "url": "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "yuechan",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN"
+        },
+        {
+          "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN"
+        }
+      ]
+    },
+    {
+      "key": "cgtnarabic",
+      "name": "CGTN Arabic",
+      "category": "央视",
+      "logo": "https://i.imgur.com/AkFFrS7.png",
+      "streams": [
+        {
+          "url": "https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Arabic (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cgtndocumentary",
+      "name": "CGTN Documentary",
+      "category": "央视",
+      "logo": null,
+      "streams": [
+        {
+          "url": "https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "yuechan",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Documentary"
+        }
+      ]
+    },
+    {
+      "key": "cgtndocumentaryenglish",
+      "name": "CGTN Documentary English Ⓢ",
+      "category": "央视",
+      "logo": "https://i.imgur.com/JHv0WxM.png",
+      "streams": [
+        {
+          "url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Documentary English Ⓢ"
+        }
+      ]
+    },
+    {
+      "key": "cgtnespanol",
+      "name": "CGTN Espanol",
+      "category": "央视",
+      "logo": null,
+      "streams": [
+        {
+          "url": "https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "yuechan",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Espanol"
+        }
+      ]
+    },
+    {
+      "key": "cgtnespañol",
+      "name": "CGTN Español",
+      "category": "央视",
+      "logo": "https://i.imgur.com/fMsJYzl.png",
+      "streams": [
+        {
+          "url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Español"
+        }
+      ]
+    },
+    {
+      "key": "cgtnfrancais",
+      "name": "CGTN Francais",
+      "category": "央视",
+      "logo": null,
+      "streams": [
+        {
+          "url": "https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "yuechan",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Francais"
+        }
+      ]
+    },
+    {
+      "key": "cgtnfrançais",
+      "name": "CGTN Français",
+      "category": "央视",
+      "logo": "https://i.imgur.com/fMsJYzl.png",
+      "streams": [
+        {
+          "url": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Français"
+        }
+      ]
+    },
+    {
+      "key": "cgtnfrench",
+      "name": "CGTN French",
+      "category": "央视",
+      "logo": "https://i.imgur.com/BwhledK.png",
+      "streams": [
+        {
+          "url": "https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN French (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cgtnpусский",
+      "name": "CGTN Pусский",
+      "category": "央视",
+      "logo": "https://i.imgur.com/fMsJYzl.png",
+      "streams": [
+        {
+          "url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Pусский"
+        }
+      ]
+    },
+    {
+      "key": "cgtnrussian",
+      "name": "CGTN Russian",
+      "category": "央视",
+      "logo": "https://i.imgur.com/nDWkCmL.png",
+      "streams": [
+        {
+          "url": "https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Russian (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cgtnspanish",
+      "name": "CGTN Spanish",
+      "category": "央视",
+      "logo": "https://i.imgur.com/Poz3xfi.png",
+      "streams": [
+        {
+          "url": "https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+          "quality": "1080P",
+          "quality_rank": 300,
+          "source": "iptv-org",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN Spanish (1080p)"
+        }
+      ]
+    },
+    {
+      "key": "cgtnالعربية",
+      "name": "CGTN العربية",
+      "category": "央视",
+      "logo": "https://i.imgur.com/fMsJYzl.png",
+      "streams": [
+        {
+          "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "free-tv",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "CGTN العربية"
+        }
+      ]
+    },
+    {
+      "key": "世界地理",
+      "name": "世界地理",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/世界地理.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "世界地理"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "世界地理"
+        }
+      ]
+    },
+    {
+      "key": "兵器科技",
+      "name": "兵器科技",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/兵器科技.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "兵器科技"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "兵器科技"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "兵器科技"
+        },
+        {
+          "url": "http://207.56.13.146:81/cdnlive/gfjs.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "兵器科技"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "兵器科技"
+        }
+      ]
+    },
+    {
+      "key": "央视台球",
+      "name": "央视台球",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/央视台球.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/ystq.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "央视台球"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "央视台球"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "央视台球"
+        },
+        {
+          "url": "http://207.56.13.146:81/cdnlive/ystq.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "央视台球"
+        },
+        {
+          "url": "https://hls-gateway.vpstv.net/streams/708855.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "央视台球"
+        }
+      ]
+    },
+    {
+      "key": "女性时尚",
+      "name": "女性时尚",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/女性时尚.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "女性时尚"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "女性时尚"
+        },
+        {
+          "url": "http://207.56.13.146:81/cdnlive/nxss.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "女性时尚"
+        }
+      ]
+    },
+    {
+      "key": "怀旧剧场",
+      "name": "怀旧剧场",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "怀旧剧场"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "怀旧剧场"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "怀旧剧场"
+        },
+        {
+          "url": "https://hls-gateway.vpstv.net/streams/708853.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "怀旧剧场"
+        }
+      ]
+    },
+    {
+      "key": "文化精品",
+      "name": "文化精品",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/文化精品.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "文化精品"
+        },
+        {
+          "url": "http://107.150.60.122/live/ysjp.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "文化精品"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "文化精品"
+        },
+        {
+          "url": "https://hls-gateway.vpstv.net/streams/708832.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "文化精品"
+        }
+      ]
+    },
+    {
+      "key": "电视指南",
+      "name": "电视指南",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/电视指南.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "电视指南"
+        }
+      ]
+    },
+    {
+      "key": "第一剧场",
+      "name": "第一剧场",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/第一剧场.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "第一剧场"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "第一剧场"
+        },
+        {
+          "url": "http://107.150.60.122/live/dyjc.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "第一剧场"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "第一剧场"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "第一剧场"
+        }
+      ]
+    },
+    {
+      "key": "风云剧场",
+      "name": "风云剧场",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/风云剧场.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云剧场"
+        },
+        {
+          "url": "http://173.208.212.130:8181/720p/fyjc.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云剧场"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云剧场"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云剧场"
+        },
+        {
+          "url": "https://hls-gateway.vpstv.net/streams/708861.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云剧场"
+        }
+      ]
+    },
+    {
+      "key": "风云足球",
+      "name": "风云足球",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/风云足球.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云足球"
+        },
+        {
+          "url": "http://207.56.13.146:81/cdnlive/fyzq.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云足球"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云足球"
+        }
+      ]
+    },
+    {
+      "key": "风云音乐",
+      "name": "风云音乐",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/风云音乐.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云音乐"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云音乐"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云音乐"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云音乐"
+        },
+        {
+          "url": "http://207.56.13.146:81/cdnlive/fyyy.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "风云音乐"
+        }
+      ]
+    },
+    {
+      "key": "高尔夫网球",
+      "name": "高尔夫网球",
+      "category": "央视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png",
+      "streams": [
+        {
+          "url": "http://207.56.13.146:81/cdnlive/gefwq.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "高尔夫网球"
+        },
+        {
+          "url": "http://104.152.209.49:8181/720p/gefwq.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "高尔夫网球"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "高尔夫网球"
+        },
+        {
+          "url": "https://hls-gateway.vpstv.net/streams/708857.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "高尔夫网球"
+        }
+      ]
+    },
+    {
+      "key": "三沙卫视",
+      "name": "三沙卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/三沙卫视.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/ssws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "三沙卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "三沙卫视"
+        },
+        {
+          "url": "http://198.204.228.26/live/ssws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "三沙卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "三沙卫视"
+        }
+      ]
+    },
+    {
+      "key": "东南卫视",
+      "name": "东南卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/东南卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东南卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/dnwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东南卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000483.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东南卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东南卫视"
+        },
+        {
+          "url": "http://iptv.huuc.edu.cn/hls/dnhd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东南卫视"
+        }
+      ]
+    },
+    {
+      "key": "东方卫视",
+      "name": "东方卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/东方卫视.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东方卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东方卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东方卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/dfwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东方卫视"
+        },
+        {
+          "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "东方卫视"
+        }
+      ]
+    },
+    {
+      "key": "云南卫视",
+      "name": "云南卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/云南卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "云南卫视"
+        },
+        {
+          "url": "http://192.151.150.154/live/ynwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "云南卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/ynwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "云南卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000482.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "云南卫视"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "云南卫视"
+        }
+      ]
+    },
+    {
+      "key": "内蒙古卫视",
+      "name": "内蒙古卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "内蒙古卫视"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "内蒙古卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "内蒙古卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/nmgws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "内蒙古卫视"
+        },
+        {
+          "url": "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "内蒙古卫视"
+        }
+      ]
+    },
+    {
+      "key": "北京卫视",
+      "name": "北京卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/北京卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "北京卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/bjwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "北京卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "北京卫视"
+        },
+        {
+          "url": "http://104.152.209.49:8181/720p/bjws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "北京卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000083.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "北京卫视"
+        }
+      ]
+    },
+    {
+      "key": "厦门卫视",
+      "name": "厦门卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/厦门卫视.png",
+      "streams": [
+        {
+          "url": "http://192.151.150.154/live/xmws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "厦门卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/xmws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "厦门卫视"
+        },
+        {
+          "url": "http://198.204.228.26/live/xmws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "厦门卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "厦门卫视"
+        }
+      ]
+    },
+    {
+      "key": "吉林卫视",
+      "name": "吉林卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/吉林卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "吉林卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/jlwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "吉林卫视"
+        },
+        {
+          "url": "http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "吉林卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "吉林卫视"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "吉林卫视"
+        }
+      ]
+    },
+    {
+      "key": "四川卫视",
+      "name": "四川卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/四川卫视.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "四川卫视"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "四川卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "四川卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "四川卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/scwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "四川卫视"
+        }
+      ]
+    },
+    {
+      "key": "大湾区卫视",
+      "name": "大湾区卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png",
+      "streams": [
+        {
+          "url": "http://198.204.228.26/live/nfws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "大湾区卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "大湾区卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "大湾区卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/nfws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "大湾区卫视"
+        }
+      ]
+    },
+    {
+      "key": "天津卫视",
+      "name": "天津卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/天津卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "天津卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/tjwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "天津卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "天津卫视"
+        },
+        {
+          "url": "http://iptv.huuc.edu.cn/hls/tjhd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "天津卫视"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "天津卫视"
+        },
+        {
+          "url": "http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "天津卫视"
+        },
+        {
+          "url": "http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "天津卫视"
+        },
+        {
+          "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226459/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "天津卫视"
+        }
+      ]
+    },
+    {
+      "key": "宁夏卫视",
+      "name": "宁夏卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/宁夏卫视.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "宁夏卫视"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "宁夏卫视"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "宁夏卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/nxws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "宁夏卫视"
+        },
+        {
+          "url": "http://198.204.228.26/live/nxws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "宁夏卫视"
+        }
+      ]
+    },
+    {
+      "key": "安多卫视",
+      "name": "安多卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/安多卫视.png",
+      "streams": [
+        {
+          "url": "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "安多卫视"
+        },
+        {
+          "url": "https://stream1.freetv.fun/52d0df257c5c3cec42f2ae19268dbbc261256ff391b27bd83553bea941d0c186.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "安多卫视"
+        },
+        {
+          "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "安多卫视"
+        },
+        {
+          "url": "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "安多卫视"
+        }
+      ]
+    },
+    {
+      "key": "安徽卫视",
+      "name": "安徽卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/安徽卫视.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/ahwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "安徽卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "安徽卫视"
+        },
+        {
+          "url": "http://104.152.209.49:8181/720p/ahws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "安徽卫视"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/ahws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "安徽卫视"
+        },
+        {
+          "url": "http://198.204.228.26/live/ahwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "安徽卫视"
+        }
+      ]
+    },
+    {
+      "key": "山东卫视",
+      "name": "山东卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/山东卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山东卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/sdwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山东卫视"
+        },
+        {
+          "url": "http://198.204.228.26/live/sdwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山东卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000099.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山东卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山东卫视"
+        }
+      ]
+    },
+    {
+      "key": "山西卫视",
+      "name": "山西卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/山西卫视.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山西卫视"
+        },
+        {
+          "url": "https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山西卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山西卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/sxwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山西卫视"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/sxws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "山西卫视"
+        }
+      ]
+    },
+    {
+      "key": "广东卫视",
+      "name": "广东卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/广东卫视.png",
+      "streams": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广东卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广东卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/gdwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广东卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000092.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广东卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广东卫视"
+        },
+        {
+          "url": "https://hls-gateway.vpstv.net/streams/476943.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广东卫视"
+        }
+      ]
+    },
+    {
+      "key": "广西卫视",
+      "name": "广西卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/广西卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广西卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/gxwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广西卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000116.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广西卫视"
+        },
+        {
+          "url": "http://198.204.228.26/live/gxwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广西卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "广西卫视"
+        }
+      ]
+    },
+    {
+      "key": "康巴卫视",
+      "name": "康巴卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/康巴卫视.png",
+      "streams": [
+        {
+          "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "康巴卫视"
+        }
+      ]
+    },
+    {
+      "key": "延边卫视",
+      "name": "延边卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/延边卫视.png",
+      "streams": [
+        {
+          "url": "https://srs.iyb983.cn/video/CYS/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "延边卫视"
+        },
+        {
+          "url": "https://srs.iyb983.cn:443/video/CYS/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "延边卫视"
+        }
+      ]
+    },
+    {
+      "key": "新疆卫视",
+      "name": "新疆卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/新疆卫视.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/xjws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        },
+        {
+          "url": "http://198.204.228.26/live/xjws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        },
+        {
+          "url": "http://goo.bkpcp.top/mg/xjws",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        },
+        {
+          "url": "http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        },
+        {
+          "url": "http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        },
+        {
+          "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        },
+        {
+          "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "新疆卫视"
+        }
+      ]
+    },
+    {
+      "key": "星空卫视",
+      "name": "星空卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/星空卫视.png",
+      "streams": [
+        {
+          "url": "https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "星空卫视"
+        },
+        {
+          "url": "https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "星空卫视"
+        },
+        {
+          "url": "https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "星空卫视"
+        },
+        {
+          "url": "https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "星空卫视"
+        },
+        {
+          "url": "http://wouu.net:9977/rtp/239.93.1.10:2193",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "星空卫视"
+        }
+      ]
+    },
+    {
+      "key": "江苏卫视",
+      "name": "江苏卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/江苏卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江苏卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/jswshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江苏卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江苏卫视"
+        },
+        {
+          "url": "http://104.152.209.49:8181/720p/jsws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江苏卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江苏卫视"
+        }
+      ]
+    },
+    {
+      "key": "江西卫视",
+      "name": "江西卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/江西卫视.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江西卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江西卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/jxwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江西卫视"
+        },
+        {
+          "url": "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江西卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "江西卫视"
+        }
+      ]
+    },
+    {
+      "key": "河北卫视",
+      "name": "河北卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/河北卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河北卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000108.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河北卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河北卫视"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/hews.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河北卫视"
+        },
+        {
+          "url": "https://event.pull.hebtv.com/live/live101.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河北卫视"
+        }
+      ]
+    },
+    {
+      "key": "河南卫视",
+      "name": "河南卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/河南卫视.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/hawshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河南卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河南卫视"
+        },
+        {
+          "url": "http://173.208.212.130:8181/720p/haws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河南卫视"
+        },
+        {
+          "url": "http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河南卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "河南卫视"
+        }
+      ]
+    },
+    {
+      "key": "浙江卫视",
+      "name": "浙江卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/浙江卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "浙江卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/zjwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "浙江卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "浙江卫视"
+        },
+        {
+          "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "浙江卫视"
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "浙江卫视"
+        }
+      ]
+    },
+    {
+      "key": "海南卫视",
+      "name": "海南卫视",
+      "category": "卫视",
+      "logo": "https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png",
+      "streams": [
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000473.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "海南卫视"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "海南卫视"
+        },
+        {
+          "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "海南卫视"
+        }
+      ]
+    },
+    {
+      "key": "深圳卫视",
+      "name": "深圳卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/深圳卫视.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/szwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        },
+        {
+          "url": "http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000100.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        },
+        {
+          "url": "http://iptv.huuc.edu.cn/hls/szhd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        },
+        {
+          "url": "http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        },
+        {
+          "url": "https://smart.pendy.dpdns.org/Smart.php?id=shenzhen",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        },
+        {
+          "url": "http://z.b.bkpcp.top/m.php?id=szws",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "深圳卫视"
+        }
+      ]
+    },
+    {
+      "key": "湖北卫视",
+      "name": "湖北卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/湖北卫视.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/hbwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖北卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖北卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000102.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖北卫视"
+        },
+        {
+          "url": "http://iptv.huuc.edu.cn/hls/hbhd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖北卫视"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖北卫视"
+        }
+      ]
+    },
+    {
+      "key": "湖南卫视",
+      "name": "湖南卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/湖南卫视.png",
+      "streams": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖南卫视"
+        },
+        {
+          "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖南卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/hnwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖南卫视"
+        },
+        {
+          "url": "http://74.91.26.218:82/live/hnwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖南卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "湖南卫视"
+        }
+      ]
+    },
+    {
+      "key": "甘肃卫视",
+      "name": "甘肃卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png",
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "甘肃卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "甘肃卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000119.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "甘肃卫视"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "甘肃卫视"
+        },
+        {
+          "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "甘肃卫视"
+        }
+      ]
+    },
+    {
+      "key": "福建海峡卫视",
+      "name": "福建海峡卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/福建海峡卫视.png",
+      "streams": [
+        {
+          "url": "http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "福建海峡卫视"
+        },
+        {
+          "url": "http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "福建海峡卫视"
+        },
+        {
+          "url": "http://38.64.72.148/hls/modn/list/4009/playlist.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "福建海峡卫视"
+        },
+        {
+          "url": "https://m.italkbbtv.com/live/6a30f74820a80832dc74e2c7",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "福建海峡卫视"
+        },
+        {
+          "url": "http://r.jdshipin.com/WtYt3",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "福建海峡卫视"
+        }
+      ]
+    },
+    {
+      "key": "西藏卫视",
+      "name": "西藏卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/西藏卫视.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "西藏卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/xzws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "西藏卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "西藏卫视"
+        },
+        {
+          "url": "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "西藏卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000121.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "西藏卫视"
+        }
+      ]
+    },
+    {
+      "key": "贵州卫视",
+      "name": "贵州卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/贵州卫视.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "贵州卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/gzwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "贵州卫视"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/gzws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "贵州卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "贵州卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "贵州卫视"
+        }
+      ]
+    },
+    {
+      "key": "辽宁卫视",
+      "name": "辽宁卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "辽宁卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/lnwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "辽宁卫视"
+        },
+        {
+          "url": "http://198.204.228.26/live/lnwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "辽宁卫视"
+        },
+        {
+          "url": "http://204.12.221.218:8181/3m1080p/lnws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "辽宁卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "辽宁卫视"
+        }
+      ]
+    },
+    {
+      "key": "重庆卫视",
+      "name": "重庆卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/重庆卫视.png",
+      "streams": [
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "重庆卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/cqwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "重庆卫视"
+        },
+        {
+          "url": "http://iptv.huuc.edu.cn/hls/cqhd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "重庆卫视"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "重庆卫视"
+        },
+        {
+          "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "重庆卫视"
+        }
+      ]
+    },
+    {
+      "key": "陕西农林卫视",
+      "name": "陕西农林卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/陕西农林卫视.png",
+      "streams": [
+        {
+          "url": "https://live.chinacert.cftest5.cn/cnmg/live/956904896",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "陕西农林卫视"
+        }
+      ]
+    },
+    {
+      "key": "陕西卫视",
+      "name": "陕西卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/陕西卫视.png",
+      "streams": [
+        {
+          "url": "https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "陕西卫视"
+        },
+        {
+          "url": "http://192.151.150.154/live/snwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "陕西卫视"
+        },
+        {
+          "url": "http://107.150.60.122/live/snwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "陕西卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "陕西卫视"
+        },
+        {
+          "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "陕西卫视"
+        }
+      ]
+    },
+    {
+      "key": "青海卫视",
+      "name": "青海卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/青海卫视.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/qhws.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "青海卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "青海卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000111.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "青海卫视"
+        },
+        {
+          "url": "https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "青海卫视"
+        },
+        {
+          "url": "https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "青海卫视"
+        }
+      ]
+    },
+    {
+      "key": "黑龙江卫视",
+      "name": "黑龙江卫视",
+      "category": "卫视",
+      "logo": "https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png",
+      "streams": [
+        {
+          "url": "http://107.150.60.122/live/hljwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "黑龙江卫视"
+        },
+        {
+          "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "黑龙江卫视"
+        },
+        {
+          "url": "http://198.204.228.26/live/hljwshd.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "黑龙江卫视"
+        },
+        {
+          "url": "http://120.76.248.139/live/bfgd/4200000095.m3u8",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "黑龙江卫视"
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub",
+          "quality": "自动",
+          "quality_rank": 80,
+          "source": "guovin",
+          "user_agent": null,
+          "referer": null,
+          "raw_name": "黑龙江卫视"
+        }
+      ]
+    }
+  ]
+}

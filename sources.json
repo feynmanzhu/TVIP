@@ -1,0 +1,97 @@
+{
+  "projects": [
+    {
+      "id": "guovin",
+      "name": "Guovin/iptv-api",
+      "github": "https://github.com/Guovin/iptv-api",
+      "feeds": [
+        {
+          "id": "guovin-result",
+          "name": "result.m3u",
+          "urls": [
+            "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+            "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+            "https://github.com/Guovin/iptv-api/releases/download/playlist-latest/result.m3u"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yuechan",
+      "name": "YueChan/Live",
+      "github": "https://github.com/YueChan/Live",
+      "feeds": [
+        {
+          "id": "yuechan-iptv",
+          "name": "国内",
+          "urls": [
+            "https://cdn.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u",
+            "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+          ]
+        },
+        {
+          "id": "yuechan-gntv",
+          "name": "GNTV",
+          "urls": [
+            "https://cdn.jsdelivr.net/gh/YueChan/Live@main/GNTV.m3u",
+            "https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iptv-org",
+      "name": "iptv-org/iptv",
+      "github": "https://github.com/iptv-org/iptv",
+      "feeds": [
+        {
+          "id": "iptv-org-cn",
+          "name": "中国",
+          "urls": [
+            "https://iptv-org.github.io/iptv/countries/cn.m3u",
+            "https://cdn.jsdelivr.net/gh/iptv-org/iptv@gh-pages/countries/cn.m3u"
+          ]
+        },
+        {
+          "id": "iptv-org-news",
+          "name": "新闻",
+          "urls": [
+            "https://iptv-org.github.io/iptv/categories/news.m3u",
+            "https://cdn.jsdelivr.net/gh/iptv-org/iptv@gh-pages/categories/news.m3u"
+          ]
+        },
+        {
+          "id": "iptv-org-general",
+          "name": "综合",
+          "urls": [
+            "https://iptv-org.github.io/iptv/categories/general.m3u",
+            "https://cdn.jsdelivr.net/gh/iptv-org/iptv@gh-pages/categories/general.m3u"
+          ]
+        },
+        {
+          "id": "iptv-org-sports",
+          "name": "体育",
+          "urls": [
+            "https://iptv-org.github.io/iptv/categories/sports.m3u",
+            "https://cdn.jsdelivr.net/gh/iptv-org/iptv@gh-pages/categories/sports.m3u"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "free-tv",
+      "name": "Free-TV/IPTV",
+      "github": "https://github.com/Free-TV/IPTV",
+      "feeds": [
+        {
+          "id": "free-tv-playlist",
+          "name": "精选",
+          "urls": [
+            "https://cdn.jsdelivr.net/gh/Free-TV/IPTV@master/playlist.m3u8",
+            "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+          ]
+        }
+      ]
+    }
+  ]
+}
