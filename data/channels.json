@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T08:29:14Z",
+  "updated_at": "2026-11-25T00:30:04Z",
   "channel_count": 117,
   "stream_count": 419,
   "channels": [
@@ -248,7 +248,7 @@
       "logo": "https://i.imgur.com/HGLFdfk.png",
       "streams": [
         {
-          "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+          "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8",
           "quality": "标清",
           "quality_rank": 100,
           "source": "iptv-org",
