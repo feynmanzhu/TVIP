@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-25T00:30:04Z",
+  "updated_at": "2026-11-26T00:05:26Z",
   "stats": {
-    "added": 1,
+    "added": 0,
     "updated": 0,
-    "removed": 1,
-    "kept": 418
+    "removed": 0,
+    "kept": 419
   },
   "feeds": [
     {
@@ -66,5 +66,5 @@
   ],
   "channel_count": 117,
   "stream_count": 419,
-  "commit_message": "chore: 差量更新频道地址 (added 1, updated 0, removed 1)"
+  "commit_message": "chore: 差量更新频道地址 (added 0, updated 0, removed 0)"
 }
